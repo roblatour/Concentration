@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Concentration", "Concentration.vbproj", "{16DF7BB7-1D4E-438C-B45B-9D766C4C1051}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{16DF7BB7-1D4E-438C-B45B-9D766C4C1051}.Debug.ActiveCfg = Debug|.NET
+		{16DF7BB7-1D4E-438C-B45B-9D766C4C1051}.Debug.Build.0 = Debug|.NET
+		{16DF7BB7-1D4E-438C-B45B-9D766C4C1051}.Release.ActiveCfg = Release|.NET
+		{16DF7BB7-1D4E-438C-B45B-9D766C4C1051}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

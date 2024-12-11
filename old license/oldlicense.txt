@@ -1,0 +1,13 @@
+This Concentration Software (the 'SOFTWARE') and documentation are owned by Rob Latour. Rob Latour grants to you a nonexclusive license to use the SOFTWARE and documentation solely for your personal, family, and internal business purposes. You may not commercially distribute, sublicense, resell, or otherwise transfer for any consideration, or reproduce for any such purposes, the SOFTWARE and documentation or any modification or derivation thereof, either alone or in conjunction with any other product or program without the prior written authorization of Rob Latour. Further, you may not modify or translate the SOFTWARE or documentation, other than for your own use. 
+
+The SOFTWARE and documentation are provided 'as is'. Rob Latour makes no warranties, either express or implied, with respect to the SOFTWARE, documentation, and associated materials provided to you, including but not limited to any warranty of merchantability, fitness for a particular purpose or against infringement. Rob Latour does not warrant that the functions contained in the SOFTWARE will meet your requirements, or that the operation of the SOFTWARE will be uninterrupted or error-free, or that defects in the SOFTWARE or documentation will be corrected. Furthermore, Rob Latour does not warrant or make any representations regarding the use or the results of the use of the SOFTWARE or documentation provided therewith in terms of their correctness, accuracy, reliability, or otherwise. No oral or written information or advice given by Rob Latour or authorized representative of Rob Latour shall create a warranty or in any way increase the scope of this warranty.
+
+Limitation of liability - Rob Latour and his licensors are not liable for any claims or damages whatsoever, including property damage, personal injury, intellectual property infringement, loss of profits, or interruption of business, or for any special, consequential or incidental damages, however caused, whether arising out of breach of warranty, contract, tort (including negligence), strict liability, or otherwise.
+
+The SOFTWARE and documentation was written by Rob Latour; the SOFTWARE and documentation are Copyright 1998 - 2002 by Rob Latour.
+
+© 1998 - 2002 Rob Latour.  All rights reserved.
+
+This SOFTWARE employs various Windows components, including CARDS32.DLL, copyrighted by Microsoft. Microsoft components not already licensed to standard Windows licensees, used by this Software, have been licensed for redistribution with this SOFTWARE. Windows is a registered trademark of Microsoft Corporation. © 1998 Microsoft Corporation.  All rights reserved.
+
+All other trademarks and service marks are the property of their respective owners.
