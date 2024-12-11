@@ -30,7 +30,9 @@ Click on the icon below to download Concentration v2.0.5 (4.7 MB)
 
 ## License
 
-The program was orginally released with the [following license]()
+The program was orginally released with the [following license](https://github.com/roblatour/Concentration/blob/main/old%20license/oldlicense.txt).
+
+However, is as of December 11, 2024, released under the [MIT](https://github.com/roblatour/Concentration/blob/main/LICENSE) license.
 
 * * * 
 Copyright © 1988 - 2024 Rob Latour
