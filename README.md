@@ -26,7 +26,7 @@ I'm sure you've heard of the shareware concept, where the author of a program fo
   
 Click on the icon below to download Concentration v2.0.5 (4.7 MB)
 
-[![Download Concentration](/images/concentration.jpg)](https://github.com/roblatour/Concentration/releases/download/v2.0.5.0/arulersetup.exe)
+[![Download Concentration](/images/concentration.jpg)](https://github.com/roblatour/Concentration/releases/download/v2.0.5.0/concentration.exe)
 
 ## License
 
